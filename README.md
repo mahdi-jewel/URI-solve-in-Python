@@ -1,2 +1,2 @@
 # URI-solve-in-Python
-URI online judge problem solving with Python Programming.The
+URI online judge problem solving with Python Programming.Thes
