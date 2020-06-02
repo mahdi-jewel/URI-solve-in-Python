@@ -1,2 +1,2 @@
 # URI-solve-in-Python
-URI online judge problem solving with Python Programming.jeww
+URI online judge problem solving with Python Programming.
